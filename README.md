@@ -1,1 +1,0 @@
-# covid_vaccine_booking
